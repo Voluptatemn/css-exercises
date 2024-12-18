@@ -1,0 +1,19 @@
+.odd_numbered_text {
+    background-color: lightpink;
+    font: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#second_element {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd_numbered_text.third_element {
+    font-size: 24px;
+}
+
+#fourth_element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
